@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    color: burlywood;
 }
 
 .banner_logo img{
@@ -11,7 +12,6 @@ body{
 
 .nav_list li{ 
     float: none; 
-
     position: relative;
     width: 300px; 
     height: 60px;
