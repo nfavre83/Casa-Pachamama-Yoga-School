@@ -1,7 +1,6 @@
 body{
     margin: 0;
     padding: 0;
-    color: burlywood;
 }
 
 .banner_logo img{
@@ -28,6 +27,6 @@ body{
     color: #262626;
     text-transform: uppercase; 
     font-weight: bold; 
-    font-family: poppins; 
-    margin-right: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode'; 
+    margin-right: 2px;
 }
