@@ -1,3 +1,33 @@
-.nav_list {
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.banner_logo img{
+    position: relative; 
+    top: 1px;
+    left: 1px;
+}
+
+.nav_list li{ 
+    float: none; 
+
+    position: relative;
+    width: 300px; 
+    height: 60px;
+    left: 50%;
+    top: 50%; 
+    margin: 0 auto;
+    text-align: center; 
+}
+
+.nav_list li a{
     list-style-type: none;
+    text-decoration: none; 
+    font-size: 20px; 
+    color: #262626;
+    text-transform: uppercase; 
+    font-weight: bold; 
+    font-family: poppins; 
+    margin-right: 25px;
 }
